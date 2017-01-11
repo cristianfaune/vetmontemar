@@ -1,91 +1,106 @@
 <!DOCTYPE html>
-<html lang="en">
-    <head>
-        <meta charset="utf-8">
-        <meta http-equiv="X-UA-Compatible" content="IE=edge">
-        <meta name="viewport" content="width=device-width, initial-scale=1">
+<!--[if lt IE 7 ]><html class="ie ie6" lang="en"> <![endif]-->
+<!--[if IE 7 ]><html class="ie ie7" lang="en"> <![endif]-->
+<!--[if IE 8 ]><html class="ie ie8" lang="en"> <![endif]-->
+<!--[if (gte IE 9)|!(IE)]><!-->
+<html lang="en-US">
+<!--<![endif]-->
 
-        <title>Laravel</title>
+<head>
+  @include('partials._head')
+</head>
 
-        <!-- Fonts -->
-        <link href="https://fonts.googleapis.com/css?family=Raleway:100,600" rel="stylesheet" type="text/css">
+<body data-offset="100" data-spy="scroll" data-target=".my-nav">
 
-        <!-- Styles -->
-        <style>
-            html, body {
-                background-color: #fff;
-                color: #636b6f;
-                font-family: 'Raleway', sans-serif;
-                font-weight: 100;
-                height: 100vh;
-                margin: 0;
-            }
+  @include('partials._loader')
 
-            .full-height {
-                height: 100vh;
-            }
+  <header id="top">
 
-            .flex-center {
-                align-items: center;
-                display: flex;
-                justify-content: center;
-            }
+    @include('partials._navbar')
 
-            .position-ref {
-                position: relative;
-            }
+    <div class="bkg-overlay"></div>
 
-            .top-right {
-                position: absolute;
-                right: 10px;
-                top: 18px;
-            }
+    @include('partials._slides-intro')
 
-            .content {
-                text-align: center;
-            }
+  </header>
 
-            .title {
-                font-size: 84px;
-            }
+  @include('partials._schedule')
 
-            .links > a {
-                color: #636b6f;
-                padding: 0 25px;
-                font-size: 12px;
-                font-weight: 600;
-                letter-spacing: .1rem;
-                text-decoration: none;
-                text-transform: uppercase;
-            }
 
-            .m-b-md {
-                margin-bottom: 30px;
-            }
-        </style>
-    </head>
-    <body>
-        <div class="flex-center position-ref full-height">
-            @if (Route::has('login'))
-                <div class="top-right links">
-                    <a href="{{ url('/login') }}">Login</a>
-                    <a href="{{ url('/register') }}">Register</a>
-                </div>
-            @endif
+  <!--about start-->
+  <section id="about">
+    @include('partials._about')
+  </section> <!--about end-->
 
-            <div class="content">
-                <div class="title m-b-md">
-                    Laravel
-                </div>
+  <!--quote start DISABLED-->
+  <section id="quote-1">
+    @include('partials._quotes')
+  </section>
+  <!--quote end-->
 
-                <div class="links">
-                    <a href="https://laravel.com/docs">Documentation</a>
-                    <a href="https://laracasts.com">Laracasts</a>
-                    <a href="https://laravel-news.com">News</a>
-                    <a href="https://forge.laravel.com">Forge</a>
-                    <a href="https://github.com/laravel/laravel">GitHub</a>
-                </div>
-            </div>
-        </div>
-    </body>
+  <!--services start-->
+  <section id="services">
+    @include('partials._services')
+  </section>
+  <!--services end-->
+
+  <!--fun-facts start-->
+  <section id="fun-facts" class="bkg-repeat">
+    @include('partials._fun-facts')
+  </section>
+  <!--fun-facts end-->
+
+
+  <!--team start-->
+  <section id="team">
+    @include('partials._team')
+  </section>
+  <!--team end-->
+
+  <!--team-alt start DISABLED-->
+  <section id="team-alt" class="parallax">
+    @include('partials._team-alt')
+  </section>
+  <!--team-alt end-->
+
+  <!--gallery start-->
+  <section id="gallery">
+    @include('partials._gallery')
+  </section> <!--gallery end-->
+
+  <!--pricing start DISABLED-->
+  <section id="pricing">
+    @include('partials._pricing')
+  </section>
+  <!--pricing end-->
+
+  <!--testimonials start-->
+  <section id="testimonials" class="bkg-repeat">
+    @include('partials._testimonials')
+  </section>
+  <!--testimonials end-->
+
+  <!--contact start-->
+  <section id="contact">
+    @include('partials._contact')
+  </section>
+  <!--contact end-->
+
+  <!--footer start-->
+  <footer class="bkg-repeat">
+    @include('partials._footer')
+  </footer>
+  <!--footer end-->
+
+<!--<div class="modal fade" id="myModal" tabindex="-1" role="dialog" aria-hidden="true">
+    <div class="modal-dialog">
+      <div class="modal-content container">
+
+      </div> /.modal-content -->
+    <!--</div> /.modal-dialog -->
+
+  <!--</div> /.modal -->
+
+  @include('partials._scripts')
+</body>
 </html>

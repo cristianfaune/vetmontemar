@@ -1,0 +1,10 @@
+<script type='text/javascript' src='https://ajax.googleapis.com/ajax/libs/jquery/1.11.2/jquery.min.js'></script>
+<script type='text/javascript' src='css/bootstrap/js/bootstrap.min.js'></script>
+<script type='text/javascript' src='js/jquery.easing.min.js'></script>
+<script type='text/javascript' src='js/jquery.superslides.min.js'></script>
+<script type='text/javascript' src='js/jquery.flexslider-min.js'></script>
+<script type='text/javascript' src='js/jquery.isotope.min.js'></script>
+<script type='text/javascript' src='js/prettyphoto/js/jquery.prettyPhoto.js'></script>
+<script type='text/javascript' src='js/jquery.form.min.js'></script>
+<script type='text/javascript' src='js/contactform.js'></script>
+<script type='text/javascript' src='js/init.js'></script>
