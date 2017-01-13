@@ -8,7 +8,7 @@
 
 <div class="profile-icon">
 
-<img class="img-responsive" src="images/team/member-1.jpg" alt="">
+<img class="img-responsive" src="images/team/daniela-team.jpg" alt="">
 
 <ul class="profile-social alignc">
 <li><a href="#" target="_blank"><i class="fa fa-twitter"></i></a></li>
@@ -22,8 +22,8 @@
 
 <div class="profile-text">
 
-<span class="user-name">- Dueña / Médico Veterinario -</span>
-<h2 class="modal-title">Dra. Daniela Aguayo</h2>
+<span class="user-name">- Dueña / Medicina Interna -</span>
+<h2 class="modal-title">Dra. Daniela Aguayo B.</h2>
 
 <p class="large-text">Texto cualquiera <strong>commodo sapien</strong> felis. Pellentes faucibus <strong>sollicitudin</strong> ante,at porta <strong>felisrutrum</strong> eget.</p>
 

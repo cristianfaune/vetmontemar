@@ -7,7 +7,11 @@
 
         <h2 class="section-title margin-24b">Contáctanos</h2>
 
-        <div class="section-heading-text">Our clinic is happy to help you with any <strong>questions</strong> or <strong>concerns</strong> that you may have about your pet. We encourage you to <strong>contact us right away</strong>.</div>
+        <div class="section-heading-text">En <strong>Vetmontemar</strong>
+            te estamos esperando con los brazos abiertos con la mejor disposición
+            las 24 horas y los 7 días de la semana.
+           Además si lo deseas puedes escribirnos, estamos atentos a tus
+           <strong>preguntas, comentarios y sugerencias.</div>
 
       </div><!-- col-md-8 -->
     </div><!-- row -->

@@ -19,9 +19,12 @@
 
         <i class="picons flaticon-love42"></i>
 
-        <h5>Consultas</h5>
+        <h5>Interconsulta y Hospitalización</h5>
 
-        <p class="service-desc">Cambiado id ligula ante porta felis euismod semper. Integer posuere erat a ante venenatis dapibus posuere velit.</p>
+        <p class="service-desc">
+          Brindamos el mejor cuidado en la estadía de su mascota y con especialistas en
+          distintas áreas como traumatología, cardiología, oftalmología y más...
+        </p>
 
       </div>
 
@@ -39,7 +42,10 @@
 
         <h5>Hotel y guardería</h5>
 
-        <p class="service-desc">Vestibulum id ligula porta felis euismod semper. Integer posuere erat a ante venenatis dapibus posuere velit aliquet.</p>
+        <p class="service-desc">
+          Distintas modalidades del cuidado de su regalón, por hora, por día y
+          semanal. En un espacio adecuado a las necesidades de cada especie.
+        </p>
 
       </div>
 
@@ -57,7 +63,10 @@
 
         <h5>Cirugías</h5>
 
-        <p class="service-desc">Vestibulum id ligula porta felis euismod semper. Integer posuere erat a ante venenatis dapibus posuere velit aliquet.</p>
+        <p class="service-desc">
+          Esterilizaciones, ortopedia, abdomen, tórax, neurocirugía, maxilofacial
+          y otros, todo realizado por médicos especialistas.
+        </p>
 
       </div>
 
@@ -78,7 +87,11 @@
 
         <h5>Peluquería canina y felina</h5>
 
-        <p class="service-desc">Vestibulum id ligula ante porta felis euismod semper. Integer posuere erat a ante venenatis dapibus posuere velit.</p>
+        <p class="service-desc">
+          Peluquería <strong>sin sedación</strong>. cosmética: incluye baño, corte de
+          pelo y uñas, limpieza superficial de oídos y descarga de glándulas
+          anales.
+        </p>
 
       </div>
 
@@ -96,7 +109,10 @@
 
         <h5>Cremación de mascotas</h5>
 
-        <p class="service-desc">Vestibulum id ligula porta felis euismod semper. Integer posuere erat a ante venenatis dapibus posuere velit aliquet.</p>
+        <p class="service-desc">
+          Convenio para realizar cremación de mascotas. Las cenizas son
+          devueltas en unas lindas y elegantes ánforas a escoger por Ud.
+        </p>
 
       </div>
 
@@ -114,7 +130,10 @@
 
         <h5>Venta de alimentos</h5>
 
-        <p class="service-desc">Vestibulum id ligula porta felis euismod semper. Integer posuere erat a ante venenatis dapibus posuere velit aliquet.</p>
+        <p class="service-desc">
+          Variedad de marcas de la mejor calidad velando por la nutrición y
+          bienestar de su mascota y con despacho a domicilio.
+        </p>
 
       </div>
 

@@ -156,45 +156,45 @@
 
     </li>
 
-    <li class="portfolio-item col-xs-6 col-sm-3 cats">
+    <li class="portfolio-item col-xs-6 col-sm-3 dogs">
 
       <figure class="portfolio-img">
 
-        <a href="images/gallery/img-8.jpg" class="lightbox" data-rel="prettyPhoto[gallery]" title="Fluffy Cat">
+        <a href="images/gallery/img-13.jpg" class="lightbox" data-rel="prettyPhoto[gallery]" title="Su pelaje impecable">
 
           <div class="portfolio-overlay">
 
             <div class="portfolio-holder valign">
               <i class="fa fa-eye"></i>
-              <h5>Fluffy Cat</h5>
+              <h5>Mateo</h5>
             </div>
           </div>
 
         </a>
 
-        <img class="img-responsive" src="images/gallery/img-8.jpg" alt="" />
+        <img class="img-responsive" src="images/gallery/img-13.jpg" alt="" />
 
       </figure>
 
     </li>
 
-    <li class="portfolio-item col-xs-6 col-sm-3 cats other">
+    <li class="portfolio-item col-xs-6 col-sm-3 dogs">
 
       <figure class="portfolio-img">
 
-        <a href="images/gallery/img-7.jpg" class="lightbox" data-rel="prettyPhoto[gallery]" title="Lazy Cat">
+        <a href="images/gallery/img-14.jpg" class="lightbox" data-rel="prettyPhoto[gallery]" title="Un caballero">
 
           <div class="portfolio-overlay">
 
             <div class="portfolio-holder valign">
               <i class="fa fa-eye"></i>
-              <h5>Lazy Cat</h5>
+              <h5>Pedro</h5>
             </div>
           </div>
 
         </a>
 
-        <img class="img-responsive" src="images/gallery/img-7.jpg" alt="" />
+        <img class="img-responsive" src="images/gallery/img-14.jpg" alt="" />
 
       </figure>
 

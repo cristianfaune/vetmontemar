@@ -8,7 +8,7 @@
 
 <div class="profile-icon">
 
-<img class="img-responsive" src="images/team/member-2.jpg" alt="">
+<img class="img-responsive" src="images/team/francisca-team.jpg" alt="">
 
 <ul class="profile-social alignc">
 <li><a href="#" target="_blank"><i class="fa fa-twitter"></i></a></li>
@@ -22,8 +22,8 @@
 
 <div class="profile-text">
 
-<span class="user-name">Peluquero Canino</span>
-<h2 class="modal-title">Dr. Kevin Doe</h2>
+<span class="user-name">Medicina de Exóticos</span>
+<h2 class="modal-title">Dra. Francisca Ortúzar W.</h2>
 
 <p class="large-text">Lorem ipsum dolor sit amet, consectetur adipiscing elit. Integer <strong>commodo sapien</strong> felis. Pellentes faucibus <strong>sollicitudin</strong> ante,at porta <strong>felisrutrum</strong> eget.</p>
 
