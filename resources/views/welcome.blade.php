@@ -46,7 +46,7 @@
 
   <!--fun-facts start-->
   <section id="fun-facts" class="bkg-repeat">
-    @include('partials._fun-facts')
+    {{--@include('partials._fun-facts')--}}
   </section>
   <!--fun-facts end-->
 
@@ -92,14 +92,14 @@
   </footer>
   <!--footer end-->
 
-<!--<div class="modal fade" id="myModal" tabindex="-1" role="dialog" aria-hidden="true">
+<div class="modal fade" id="myModal" tabindex="-1" role="dialog" aria-hidden="true">
     <div class="modal-dialog">
       <div class="modal-content container">
 
-      </div> /.modal-content -->
+      </div> <!--/.modal-content -->
     <!--</div> /.modal-dialog -->
 
-  <!--</div> /.modal -->
+</div>   <!--/.modal -->
 
   @include('partials._scripts')
 </body>

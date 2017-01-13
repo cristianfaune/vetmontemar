@@ -38,6 +38,30 @@
 
         <div id="contact-form-holder">
 
+          {!! Form::open(['url' => 'contact', 'id'=> 'contact-form']) !!}
+            <p>
+              {{Form::text('name',null, array('id'=>'name',
+                'name'=>'name', 'class'=>'comm-field', 'placeholder'=>'¿Cuál es tu nombre?'))}}
+            </p>
+            <p>
+              {{Form::text('email',null, array('id'=>'email',
+                 'name'=>'email', 'class'=>'comm-field', 'placeholder'=>'Escribe tu email'))}}
+            </p>
+            <p>
+              {{Form::text('subject',null, array(
+              'name'=>'subject', 'class'=>'comm-field', 'id'=>'subject', 'placeholder'=>'Sobre que quieres comentarnos'))}}
+            </p>
+            <p>
+              {{Form::textarea('message',null, array(
+              'name'=>'message', 'class'=>'comm-field', 'id'=>'message', 'placeholder'=>'Escribe tu mensaje'))}}
+            </p>
+            <p class="contact-btn">
+            {{Form::submit('Enviar', array('class'=>'btn-round','id'=>'submit-contact',
+            'name'=>'submit-contact'))}}
+            </p>
+          {!! Form::close() !!}
+
+{{--
           <form method="post" id="contact-form" action='include/contact-process.php'>
 
             <p><input type="text" name="name" class="comm-field" placeholder="¿Cuál es tu nombre?" /></p>
@@ -47,6 +71,8 @@
             <p class="antispam">Leave this empty: <input type="text" name="url" /></p>
             <p class="contact-btn"><input type="submit" value="Enviar" id="submit-contact" class="btn-round"/></p>
           </form>
+--}}
+
         </div><!-- contact-form-holder-->
 
         <div id="output-contact"></div>

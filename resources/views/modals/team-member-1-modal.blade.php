@@ -8,7 +8,7 @@
 
 <div class="profile-icon">
 
-<img class="img-responsive" src="images/images/slides/portada-web.jpg" alt="">
+<img class="img-responsive" src="images/team/member-1.jpg" alt="">
 
 <ul class="profile-social alignc">
 <li><a href="#" target="_blank"><i class="fa fa-twitter"></i></a></li>

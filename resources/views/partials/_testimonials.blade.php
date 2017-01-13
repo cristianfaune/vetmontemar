@@ -7,27 +7,27 @@
         <div class="flexslider flexslider-testimonials">
           <ul class="slides">
             <li>
-              <div class="testimonial-desc">"Curabitur sit amet ligula vitae lorem consequat condimentum id in mauris. Vivamus pretium aliquet sapien, ut commodo risus. Fusce erat orci, tempus vitae mi ac, interdum sollicitudin felis. Suspendisse elementum turpis vitae libero lobortis laoreet." </div> <!--.testimonial-desc-->
+              <div class="testimonial-desc">"Excelente la atención y dedicación de la profesional se da el tiempo de explicar bien cada asunto y resolver dudas."</div> <!--.testimonial-desc-->
 
-              <div class="testimonial-client alignc"> <strong>- John Doe</strong>, Dog Owner </div>
+              <div class="testimonial-client alignc"> <strong>- Mario Sandoval</strong>, peluquería </div>
             </li>
 
             <li>
-              <div class="testimonial-desc">"Sed sodales, odio eget adipiscing mattis, sapien purus dapibus felis, sit amet mollis velit dolor eu lorem. Vivamus condimentum nunc a quam lobortis tempus. Integer porttitor, elit vestibulum facilisis accumsan, tortor nisl volutpat sem, ac laoreet ligula metus ut felis." </div> <!--.testimonial-desc-->
+              <div class="testimonial-desc">"Me encantó, muy lindo todo. Muy atentos para atender también, 100% recomendado." </div> <!--.testimonial-desc-->
 
-              <div class="testimonial-client alignc"> <strong>- Jane Doe</strong>, Cat Owner </div>
+              <div class="testimonial-client alignc"> <strong>- Sofía Ugarte</strong>, consulta médica </div>
             </li>
 
             <li>
-              <div class="testimonial-desc">"Mattis pretium id vitae erat. Quisque justo nisi, malesuada eget lorem ac, posuere dictum justo. Vestibulum vitae scelerisque ante. Duis at mi vel odio fermentum accumsan at nec massa. Donec id velit porta, mattis lorem vitae, convallis nunc." </div> <!--.testimonial-desc-->
+              <div class="testimonial-desc">"Excelente primera experiencia con el corte de pelo de Frida y Ponyo, mis dos Schnauzer Miniatura que estaban "afro". Recomiendo al 100%." </div> <!--.testimonial-desc-->
 
-              <div class="testimonial-client alignc"> <strong>- Mike Doe</strong>, Dog Owner </div>
+              <div class="testimonial-client alignc"> <strong>- Camila Wood</strong>, peluquería </div>
             </li>
 
             <li>
-              <div class="testimonial-desc">"Sed ut perspiciatis unde omnis iste natus error sit voluptatem accusantium doloremque laudantium, totam rem aperiam, eaque ipsa quae ab illo inventore. Donec id velit porta, mattis lorem vitae, convallis nunc. Phasellus euismod vulputate lacus ac commodo." </div> <!--.testimonial-desc-->
+              <div class="testimonial-desc">"Muy buena atención! Gran vocación la Dani, nos atendió a las 5 am y nos ayudo con nuestra chuki. 110% recomendado!!" </div> <!--.testimonial-desc-->
 
-              <div class="testimonial-client alignc"> <strong>- Paul Doe</strong>, Cat Owner </div>
+              <div class="testimonial-client alignc"> <strong>- Bernii Cattarinich Araya</strong>, consulta médica </div>
             </li>
 
           </ul>

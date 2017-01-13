@@ -13,8 +13,7 @@
 
 <div class="row">
   <div class="col-md-4">
-
-    <a href="service-1-modal.html" data-toggle="modal" data-target="#myModal">
+    <a href="{{url ('service1')}}" data-toggle="modal" data-target="#myModal">
 
       <div class="service">
 
@@ -22,7 +21,7 @@
 
         <h5>Consultas</h5>
 
-        <p class="service-desc">Vestibulum id ligula ante porta felis euismod semper. Integer posuere erat a ante venenatis dapibus posuere velit.</p>
+        <p class="service-desc">Cambiado id ligula ante porta felis euismod semper. Integer posuere erat a ante venenatis dapibus posuere velit.</p>
 
       </div>
 
@@ -32,7 +31,7 @@
 
   <div class="col-md-4">
 
-    <a href="service-2-modal.html" data-toggle="modal" data-target="#myModal">
+    <a href="{{url ('service2')}}" data-toggle="modal" data-target="#myModal">
 
       <div class="service">
 
@@ -50,7 +49,7 @@
 
   <div class="col-md-4">
 
-    <a href="service-3-modal.html" data-toggle="modal" data-target="#myModal">
+    <a href="{{url ('service3')}}" data-toggle="modal" data-target="#myModal">
 
       <div class="service">
 
@@ -71,7 +70,7 @@
 <div class="row">
   <div class="col-md-4">
 
-    <a href="service-4-modal.html" data-toggle="modal" data-target="#myModal">
+    <a href="{{url ('service4')}}" data-toggle="modal" data-target="#myModal">
 
       <div class="service">
 
@@ -89,7 +88,7 @@
 
   <div class="col-md-4">
 
-    <a href="service-5-modal.html" data-toggle="modal" data-target="#myModal">
+    <a href="{{url ('service5')}}" data-toggle="modal" data-target="#myModal">
 
       <div class="service">
 
@@ -107,7 +106,7 @@
 
   <div class="col-md-4">
 
-    <a href="service-6-modal.html" data-toggle="modal" data-target="#myModal">
+    <a href="{{url ('service6')}}" data-toggle="modal" data-target="#myModal">
 
       <div class="service">
 

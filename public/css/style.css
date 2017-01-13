@@ -313,7 +313,7 @@ margin-bottom:24px;}
 
 /*color nav*/
 .nav-shrink{background-color: #0098a6;
-padding-bottom:16px;}
+padding-bottom:10px;}
 
 .navbar-header{z-index:2;}
 
@@ -1236,6 +1236,12 @@ background:#0098a6;
 .output2{border:1px solid #ff5555;
 padding:8px;
 color:#ff5555;
+border-radius:5px;
+margin-top:24px;}
+
+.output1{border:1px solid #0098a6;
+padding:8px;
+color:#0098a6;
 border-radius:5px;
 margin-top:24px;}
 

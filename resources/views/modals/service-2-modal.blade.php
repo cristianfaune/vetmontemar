@@ -1,11 +1,11 @@
    <div class="modal-body">
-   
+
    <div class="row">
 <div class="col-md-12">
  <div class="exit-modal" data-dismiss="modal"><i class="fa fa-times"></i></div>
-   
-   <h2 class="modal-title">Behavioral Training</h2>
-   
+
+   <h2 class="modal-title">Vaccination Programs</h2>
+
    <p class="large-text">Lorem ipsum dolor sit amet, consectetur adipiscing elit. Integer <strong>commodo sapien</strong> felis. Pellentes faucibus <strong>sollicitudin</strong> ante,at porta <strong>felisrutrum</strong> eget.</p>
 
 <div class="row">
@@ -31,5 +31,5 @@
 
 </div><!--col-md-12-->
 </div><!--row-->
-	
+
 </div><!--modal body-->

@@ -18,7 +18,7 @@
 
         <figure class="member-img">
 
-          <a data-toggle="modal" href="team-member-1-modal.html" data-target="#myModal">
+          <a data-toggle="modal" href="{{ url('team1') }}" data-target="#myModal">
             <div class="member-overlay">
 
               <h5><i class="fa fa-eye"></i></h5>
@@ -38,7 +38,7 @@
 
           <p>Sed ut perspiciatis unde omnis iste natus error sit voluptatem accusantium doloremque laudantium, totam rem aperiam, eaque ipsa quae ab illo inventore. Donec id velit porta, mattis lorem vitae, convallis nunc. Phasellus euismod vulputate lacus ac commodo. Pellentesque id fermentum enim, non aliquam libero. Fusce tincidunt dictum erat sit amet volutpat. </p>
 
-          <span class="view-more"><a data-toggle="modal" href="team-member-1-modal.html" data-target="#myModal"> View Profile <i class="fa fa-angle-right"></i></a></span>
+          <span class="view-more"><a data-toggle="modal" href="{{ url('team1') }}" data-target="#myModal"> Perfil <i class="fa fa-angle-right"></i></a></span>
 
         </div>
 
@@ -48,7 +48,7 @@
 
         <figure class="member-img mright">
 
-          <a data-toggle="modal" href="team-member-2-modal.html" data-target="#myModal">
+          <a data-toggle="modal" href="{{ url('team2') }}" data-target="#myModal">
             <div class="member-overlay">
 
               <h5><i class="fa fa-eye"></i></h5>
@@ -68,7 +68,7 @@
 
           <p>Sed ut perspiciatis unde omnis iste natus error sit voluptatem accusantium doloremque laudantium, totam rem aperiam, eaque ipsa quae ab illo inventore. Donec id velit porta, mattis lorem vitae, convallis nunc. Phasellus euismod vulputate lacus ac commodo. Pellentesque id fermentum enim, non aliquam libero. Fusce tincidunt dictum erat sit amet volutpat. </p>
 
-          <span class="view-more"><a data-toggle="modal" href="team-member-2-modal.html" data-target="#myModal"> View Profile <i class="fa fa-angle-right"></i></a></span>
+          <span class="view-more"><a data-toggle="modal" href="{{ url('team2') }}" data-target="#myModal"> View Profile <i class="fa fa-angle-right"></i></a></span>
 
         </div>
 
@@ -78,7 +78,7 @@
 
         <figure class="member-img">
 
-          <a data-toggle="modal" href="team-member-3-modal.html" data-target="#myModal">
+          <a data-toggle="modal" href="{{ url('team3') }}" data-target="#myModal">
             <div class="member-overlay">
 
               <h5><i class="fa fa-eye"></i></h5>
@@ -98,7 +98,7 @@
 
           <p>Sed ut perspiciatis unde omnis iste natus error sit voluptatem accusantium doloremque laudantium, totam rem aperiam, eaque ipsa quae ab illo inventore. Donec id velit porta, mattis lorem vitae, convallis nunc. Phasellus euismod vulputate lacus ac commodo. Pellentesque id fermentum enim, non aliquam libero. Fusce tincidunt dictum erat sit amet volutpat. </p>
 
-          <span class="view-more"><a data-toggle="modal" href="team-member-3-modal.html" data-target="#myModal"> View Profile <i class="fa fa-angle-right"></i></a></span>
+          <span class="view-more"><a data-toggle="modal" href="{{ url('team3') }}" data-target="#myModal"> View Profile <i class="fa fa-angle-right"></i></a></span>
 
         </div>
 

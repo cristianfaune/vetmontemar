@@ -1,18 +1,17 @@
    <div class="modal-body">
-   
+
    <div class="row">
 <div class="col-md-12">
  <div class="exit-modal" data-dismiss="modal"><i class="fa fa-times"></i></div>
-   
-   <h2 class="modal-title">Annual Examinations</h2>
-   
+
+   <h2 class="modal-title">Nutritional Diets</h2>
+
    <p class="large-text">Lorem ipsum dolor sit amet, consectetur adipiscing elit. Integer <strong>commodo sapien</strong> felis. Pellentes faucibus <strong>sollicitudin</strong> ante,at porta <strong>felisrutrum</strong> eget.</p>
 
 <div class="row">
 <div class="col-sm-6">
 
 <p>Cras eu nibh non dui mattis pretium id vitae erat. Quisque justo nisi, malesuada eget lorem ac, posuere dictum justo. Vestibulum vitae scelerisque ante. Duis at mi vel odio fermentum accumsan at nec massa. Donec id velit porta, mattis lorem vitae, convallis nunc. Phasellus euismod vulputate lacus ac commodo. Sed vulputate condimentum elit id ornare. Nulla ante ipsum, blandit gravida lobortis at, laoreet vitae velit</p>
-
 
 </div>
 
@@ -32,5 +31,5 @@
 
 </div><!--col-md-12-->
 </div><!--row-->
-	
+
 </div><!--modal body-->
