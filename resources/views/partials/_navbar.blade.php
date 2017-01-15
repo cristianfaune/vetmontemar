@@ -24,7 +24,7 @@
             <!--<li><a href="#pricing">Pricing</a></li>-->
             <li><a href="#contact">Contacto</a></li>
             <!--<li><a href="blog.html">Blog</a>-->
-            <ul class="sub-menu">
+            {{--<ul class="sub-menu">
               <li><a href="blog.html">Centered Blog</a></li>
               <li><a href="blog-3cols.html">3 Cols</a></li>
               <li><a href="blog-2cols-sidebar.html">2 Cols w/ Sidebar</a></li>
@@ -33,7 +33,7 @@
               <li><a href="single-blog-post-sidebar.html">Single Blog Post w/ Sidebar</a></li>
             </ul>
           </li>
-
+            --}}
         </ul>
 
       </div><!-- .navbar-collapse -->
