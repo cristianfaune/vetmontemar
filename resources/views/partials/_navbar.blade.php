@@ -10,7 +10,7 @@
             <span class="icon-bar"></span>
             <span class="icon-bar"></span>
           </button>
-          <span class="logo"><img class="img-responsive" src="images/logo_clinica_montemar.png" alt="PetClinic"/></span>
+          <span class="logo"><a href="#slides"><img class="img-responsive" src="images/logo_clinica_montemar.png" alt="Vetmontemar"/></a></span>
         </div>
 
         <!-- opciones de menú-->

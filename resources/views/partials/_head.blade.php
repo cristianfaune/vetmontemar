@@ -1,7 +1,7 @@
 <meta http-equiv="content-type" content="text/html; charset=UTF-8">
 <meta charset="utf-8">
 
-<title>Pet Clinic - One / Multi Page HTML5 Template for Vets</title>
+<title>Vetmontemar | 24/7 al servicio de tu mascota</title>
 
 <meta name="viewport" content="width=device-width, initial-scale=1.0">
 
