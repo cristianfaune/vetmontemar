@@ -12,7 +12,7 @@
 */
 
 Route::get('/', function () {
-    return view('welcome');
+    return view('comingsoon');
 });
 
 Route::post('contact', 'ContactController@sendMessage');
